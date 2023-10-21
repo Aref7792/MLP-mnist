@@ -8,3 +8,4 @@ input: 28*28
 hidden 1: 12
 hidden 2: 25
 output: 10
+The validation accuracy is 94.5 percent. 
